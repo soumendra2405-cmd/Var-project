@@ -48,7 +48,9 @@ Visualization of the VaR threshold
 
 # Excel Implementation – Historical & Monte Carlo VaR
 This project also includes an Excel-based implementation of Value at Risk modeling.
+
 The Excel model includes:
+
 Historical VaR using empirical return distribution
 Monte Carlo simulation to generate stochastic return paths
 95% and 99% confidence level risk estimation
