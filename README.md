@@ -1,4 +1,4 @@
-# Historical_Var
+# Var on Python
 Historical Value at Risk (VaR) – Multi-Asset Portfolio
 Overview
 This project implements the Historical Simulation method to estimate the 5-day Value at Risk (VaR) of an equally weighted portfolio using 15 years of real market data.
