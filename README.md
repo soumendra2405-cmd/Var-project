@@ -1,5 +1,5 @@
 # Var on Python
-Historical Value at Risk (VaR) – Multi-Asset Portfolio
+# Historical Value at Risk (VaR) – Multi-Asset Portfolio
 Overview
 This project implements the Historical Simulation method to estimate the 5-day Value at Risk (VaR) of an equally weighted portfolio using 15 years of real market data.
 The objective is to measure potential downside risk at a 95% confidence level without assuming any specific probability distribution.
@@ -43,3 +43,15 @@ The script produces:
 5-day Historical VaR (95% confidence) in dollar terms
 Distribution plot of rolling 5-day portfolio returns
 Visualization of the VaR threshold
+
+# VaR on Excel
+
+# Excel Implementation – Historical & Monte Carlo VaR
+This project also includes an Excel-based implementation of Value at Risk modeling.
+The Excel model includes:
+Historical VaR using empirical return distribution
+Monte Carlo simulation to generate stochastic return paths
+95% and 99% confidence level risk estimation
+Portfolio loss calculation in monetary terms
+Statistical summary (mean, standard deviation, min, max returns)
+The Excel version demonstrates practical financial risk modeling without external programming libraries and highlights simulation-based risk estimation techniques.
